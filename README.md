@@ -1,0 +1,2 @@
+# Lucky-person-alive-geeks-for-geeks
+Given n people standing in a circle where 1st is having sword, find the luckiest person in the circle, if from 1st soldier who is having a sword each have to kill the next soldier and handover the sword to next soldier, in turn the soldier will kill the adjacent soldier and handover the sword to next soldier such that one soldier remain in this war who is not killed by anyone. This is the question of geeks for geeks portal. i am sharing my solution to you guys 
